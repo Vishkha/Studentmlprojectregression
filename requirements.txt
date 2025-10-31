@@ -8,7 +8,7 @@ catboost
 xgboost
 dill
 flask
-flask_cors
+flask-cors
 lime
 gunicorn
 #-e .
