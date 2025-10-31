@@ -7,8 +7,8 @@ ipykernel
 catboost
 xgboost
 dill
-flask
-flask-cors
+Flask==3.0.3
+flask-cors==4.0.1
 lime
-gunicorn
+gunicorn==21.2.0
 #-e .
